@@ -1,6 +1,6 @@
 ## Raham
 
-Computer Science Student @ Hofstra University | Dual BS/MS
+Computer Science and Cybersecurity Student @ Hofstra University | Dual BS/MS
 
 ### Current Project
 
