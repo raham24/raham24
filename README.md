@@ -18,7 +18,7 @@ Master's thesis: Zero Knowledge Proof Hardware Accelerator implementation on FPG
 
 ### Experience
 
-- CS Tutor & Student Technician @ Hofstra University
+- CS Tutor & Student Technician @ Hofstra
 - Founder & Lead, Coding Club @ Hofstra
 - ACM Chair @ Hofstra
 - CTF Competitor (Amazon CTF, Pros vs Joes)
