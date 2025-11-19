@@ -16,6 +16,13 @@ Master's thesis: Zero Knowledge Proof Hardware Accelerator implementation on FPG
 - ML-based Intrusion detection
 - Embedded systems and low-level programming
 
+### Experience
+
+- CS Tutor & Student Technician @ Hofstra University
+- Founder & Lead, Coding Club @ Hofstra
+- ACM Chair @ Hofstra
+- CTF Competitor (Amazon CTF, Pros vs Joes)
+
 ### Technical Stack
 
 **Systems & Hardware:** SystemVerilog, CUDA, FPGA development, embedded systems  
@@ -23,13 +30,6 @@ Master's thesis: Zero Knowledge Proof Hardware Accelerator implementation on FPG
 **Infrastructure:** Docker, AWS (EC2, F1, F2), cloud deployment  
 **Security:** Binary exploitation, reverse engineering, network security
 **Framework:** React Native, Flutter
-
-### Experience
-
-- CS Tutor & Student Technician @ Hofstra University
-- Founder & Lead, Coding Club @ Hofstra
-- ACM Chair @ Hofstra
-- CTF Competitor (Amazon CTF, Pros vs Joes)
 
 ### Connect
 
