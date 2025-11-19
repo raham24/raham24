@@ -5,7 +5,7 @@ Computer Science Student @ Hofstra University | Dual BS/MS
 ### Current Project
 
 Master's thesis: Zero Knowledge Proof Hardware Accelerator implementation on FPGA
-- Comparing GPU vs AWS F1 vs AWS F2 instances
+- Comparing GPU vs AWS F1 vs AWS F2 instances for Hardware Acceleration
 - Cryptographic acceleration for BN254 curves
 - Using Cuda, System Verilog and Rust
 
@@ -13,15 +13,16 @@ Master's thesis: Zero Knowledge Proof Hardware Accelerator implementation on FPG
 
 - Hardware-accelerated cryptography and ZK proof systems
 - Competitive cybersecurity and CTF competitions
-- FPGA/ASIC development for computational acceleration
+- ML-based Intrusion detection
 - Embedded systems and low-level programming
 
 ### Technical Stack
 
 **Systems & Hardware:** SystemVerilog, CUDA, FPGA development, embedded systems  
-**Languages:** Rust, C++, Python, TypeScript, C  
+**Languages:** Rust, C, C++, Python, TypeScript  
 **Infrastructure:** Docker, AWS (EC2, F1, F2), cloud deployment  
 **Security:** Binary exploitation, reverse engineering, network security
+**Framework:** React Native, Flutter
 
 ### Experience
 
