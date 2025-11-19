@@ -1,16 +1,35 @@
-## Hi there 👋
+## Raham
 
-<!--
-**raham24/raham24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student @ Hofstra University | Dual BS/MS
 
-Here are some ideas to get you started:
+### Current Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Master's thesis: Zero Knowledge Proof Hardware Accelerator implementation on FPGA
+- Comparing GPU vs AWS F1 vs AWS F2 instances
+- Cryptographic acceleration for BN254 curves
+- Using Cuda, System Verilog and Rust
+
+### Research & Interests
+
+- Hardware-accelerated cryptography and ZK proof systems
+- Competitive cybersecurity and CTF competitions
+- FPGA/ASIC development for computational acceleration
+- Embedded systems and low-level programming
+
+### Technical Stack
+
+**Systems & Hardware:** SystemVerilog, CUDA, FPGA development, embedded systems  
+**Languages:** Rust, C++, Python, TypeScript, C  
+**Infrastructure:** Docker, AWS (EC2, F1, F2), cloud deployment  
+**Security:** Binary exploitation, reverse engineering, network security
+
+### Experience
+
+- CS Tutor & Student Technician @ Hofstra University
+- Founder & Lead, Coding Club @ Hofstra
+- ACM Chair @ Hofstra
+- CTF Competitor (Amazon CTF, Pros vs Joes)
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/rahambutt/) | [Email](mailto:rahamriaz@gmail.com)
