@@ -29,7 +29,7 @@ Master's thesis: Zero Knowledge Proof Hardware Accelerator implementation on FPG
 **Languages:** Rust, C, C++, Python, TypeScript  
 **Infrastructure:** Docker, AWS (EC2, F1, F2), cloud deployment  
 **Security:** Binary exploitation, reverse engineering, network security
-**Framework:** React Native, Flutter
+**Framework:** React Native, Flutter, Next.JS
 
 ### Connect
 
