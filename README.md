@@ -1,20 +1,6 @@
 ## Raham
 
-Computer Science and Cybersecurity Student @ Hofstra University | Dual BS/MS
-
-### Current Project
-
-Master's thesis: Zero Knowledge Proof Hardware Accelerator implementation on FPGA
-- Comparing GPU vs AWS F1 vs AWS F2 instances for Hardware Acceleration
-- Cryptographic acceleration for BN254 curves
-- Using Cuda, System Verilog and Rust
-
-### Research & Interests
-
-- Hardware-accelerated cryptography and ZK proof systems
-- Competitive cybersecurity and CTF competitions
-- ML-based Intrusion detection
-- Embedded systems and low-level programming
+I build things and I hack things
 
 ### Experience
 
@@ -30,7 +16,8 @@ Master's thesis: Zero Knowledge Proof Hardware Accelerator implementation on FPG
 **Infrastructure:** Docker, AWS (EC2, F1, F2), cloud deployment  
 **Security:** Binary exploitation, reverse engineering, network security
 **Framework:** React Native, Flutter, Next.JS
+**Embedded Experience:** Raspberry Pi, Arduino, ESP32
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/rahambutt/) | [Email](mailto:rahamriaz@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/rahambutt/) | [Email](mailto:rahamriaz@gmail.com) | [Portfolio](https://raham.vercel.app)
