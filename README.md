@@ -5,7 +5,7 @@ I build things and I hack things
 ### Experience
 
 - CS Tutor & Student Technician @ Hofstra
-- Founder & Lead, Coding Club @ Hofstra
+- Founder & Lead, C.O.D.E @ Hofstra
 - ACM Chair @ Hofstra
 - CTF Winner (Amazon CTF, Pros vs Joes)
 - Hackathon Winner (Pensar AI Hackathon)
