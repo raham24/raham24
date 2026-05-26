@@ -5,6 +5,7 @@ I build things and I hack things
 ### Experience
 
 - MS Thesis: GPU & HPC Acceleration for ZK Proofs (17.9x speedup on 8x A100) - Read [here](https://raham.vercel.app/projects/thesis)
+- IT Technician @ Maurice A. Deane School of Law, Hofstra University
 - CS Tutor & Student Technician @ Hofstra
 - Founder & Lead, C.O.D.E @ Hofstra
 - ACM Chair @ Hofstra
