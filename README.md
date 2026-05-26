@@ -1,9 +1,10 @@
 ## Raham
-
+  
 I build things and I hack things
 
 ### Experience
 
+- MS Thesis: GPU & HPC Acceleration for ZK Proofs (17.9x speedup on 8x A100)
 - CS Tutor & Student Technician @ Hofstra
 - Founder & Lead, C.O.D.E @ Hofstra
 - ACM Chair @ Hofstra
@@ -12,12 +13,13 @@ I build things and I hack things
 
 ### Technical Stack
 
-**Systems & Hardware:** SystemVerilog, CUDA, FPGA development, embedded systems  
-**Languages:** Python, Java, Rust, C, C++, Javascript, TypeScript  
-**Infrastructure:** Docker, AWS (EC2, F1, F2), cloud deployment  
-**Security:** Binary exploitation, reverse engineering, network security
-**Framework:** React Native, Flutter, Next.JS
-**Embedded Experience:** Raspberry Pi, Arduino, ESP32
+**Systems & Hardware:** CUDA, SystemVerilog, FPGA development, HPC (SLURM,multi-GPU), embedded systems
+**Languages:** Python, Java, Rust, C, C++, JavaScript, TypeScript
+**ML & AI:** PyTorch, scikit-learn, Random Forest / MLP ensembles, reinforcement learning (Q-learning, SARSA)
+**Security & Cryptography:** Binary exploitation, reverse engineering, network security, zero-knowledge proofs (Nova, Pallas/Vesta), elliptic curve arithmetic, Pippenger MSM
+**Infrastructure:** Docker, AWS (EC2, F1, F2), cloud deployment
+**Frameworks:** React Native, Flutter, Next.js
+**Embedded:** Raspberry Pi, Arduino, ESP32
 
 ### Connect
 
