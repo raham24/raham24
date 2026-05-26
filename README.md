@@ -1,5 +1,5 @@
 ## Raham
-  
+
 I build things and I hack things
 
 ### Experience
@@ -13,12 +13,12 @@ I build things and I hack things
 
 ### Technical Stack
 
-**Systems & Hardware:** CUDA, SystemVerilog, FPGA development, HPC (SLURM,multi-GPU), embedded systems
-**Languages:** Python, Java, Rust, C, C++, JavaScript, TypeScript
-**ML & AI:** PyTorch, scikit-learn, Random Forest / MLP ensembles, reinforcement learning (Q-learning, SARSA)
-**Security & Cryptography:** Binary exploitation, reverse engineering, network security, zero-knowledge proofs (Nova, Pallas/Vesta), elliptic curve arithmetic, Pippenger MSM
-**Infrastructure:** Docker, AWS (EC2, F1, F2), cloud deployment
-**Frameworks:** React Native, Flutter, Next.js
+**Systems & Hardware:** CUDA, SystemVerilog, FPGA development, HPC (SLURM, multi-GPU), embedded systems  
+**Languages:** Python, Java, Rust, C, C++, JavaScript, TypeScript  
+**ML & AI:** PyTorch, scikit-learn, Random Forest / MLP ensembles, reinforcement learning (Q-learning, SARSA)  
+**Security & Cryptography:** Binary exploitation, reverse engineering, network security, zero-knowledge proofs (Nova, Pallas/Vesta), elliptic curve arithmetic, Pippenger MSM  
+**Infrastructure:** Docker, AWS (EC2, F1, F2), cloud deployment  
+**Frameworks:** React Native, Flutter, Next.js  
 **Embedded:** Raspberry Pi, Arduino, ESP32
 
 ### Connect
